@@ -19,33 +19,15 @@ Este repositório apresenta uma **Análise Exploratória de Dados** das vendas d
 * **Seaborn** – Visualizações estatísticas
 * **Matplotlib.ticker.FuncFormatter** – Formatação personalizada de eixos
 
-## 📁 Estrutura do Repositório
 
-```
-Projeto_alura/
-├── Alurav2.ipynb       # Notebook com todo o workflow de análise
-├── data/               # Arquivos de dados brutos (CSV, Excel, etc.)
-├── assets/             # Imagens e gráficos gerados
-│   └── faturamento_lojas.png
-├── requirements.txt    # Dependências do projeto
-└── LICENSE             # Licença MIT
-```
 
 ## ⚙️ Como Rodar
 
 1. Clone o repositório:
 
-   ```bash
-   ```
+
 
 git clone [https://github.com/crgolart12/Projeto\_alura.git](https://github.com/crgolart12/Projeto_alura.git) cd Projeto\_alura
-
-
-
-2. Instale as dependências:
-
-   ```bash
-   ```
 
 pip install -r requirements.txt
 
@@ -74,15 +56,16 @@ A análise apresentou o faturamento das lojas de 2020 a 2023 e levou em conta:
 
 > **Recomendação:** A **Loja 3** se destaca por seu crescimento consistente e desempenho acima da média, sendo a melhor opção para o Sr. João expandir suas vendas.
 
-### Gráfico de Faturamento
+### Gráfico de Faturamento:
+![faturamento_lojas](https://github.com/user-attachments/assets/0cf839a7-a111-4af5-b954-eb5d97c67ea5)
+
 
 ## 📎 Links Úteis
 
 * Notebook no NBViewer: [https://nbviewer.org/github/crgolart12/Projeto\_alura/blob/main/Alurav2.ipynb](https://nbviewer.org/github/crgolart12/Projeto_alura/blob/main/Alurav2.ipynb)
 * Imagem do gráfico: `assets/faturamento_lojas.png`
 
-![faturamento_lojas](https://github.com/user-attachments/assets/b226ab6d-c55f-41ed-a2db-cd18b2ea0ddb)
-
+---
 
 ## 📝 Licença
 
