@@ -29,14 +29,6 @@ Este repositório apresenta uma **Análise Exploratória de Dados** das vendas d
 
 git clone [https://github.com/crgolart12/Projeto\_alura.git](https://github.com/crgolart12/Projeto_alura.git) cd Projeto\_alura
 
-pip install -r requirements.txt
-
-````
-4. Abra o notebook no Jupyter:
-   ```bash
-jupyter notebook Alurav2.ipynb
-````
-
 ## 📊 Resultados e Conclusão
 
 A análise apresentou o faturamento das lojas de 2020 a 2023 e levou em conta:
