@@ -48,10 +48,6 @@ A análise apresentou o faturamento das lojas de 2020 a 2023 e levou em conta:
 
 > **Recomendação:** A **Loja 3** se destaca por seu crescimento consistente e desempenho acima da média, sendo a melhor opção para o Sr. João expandir suas vendas.
 
-### Gráfico de Faturamento:
-![faturamento_lojas](https://github.com/user-attachments/assets/0cf839a7-a111-4af5-b954-eb5d97c67ea5)
-
-
 ## 📎 Links Úteis
 
 * Notebook no NBViewer: [https://nbviewer.org/github/crgolart12/Projeto\_alura/blob/main/Alurav2.ipynb](https://nbviewer.org/github/crgolart12/Projeto_alura/blob/main/Alurav2.ipynb)
